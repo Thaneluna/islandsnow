@@ -6,3 +6,11 @@
 .ui.borderless.second.menu {
   background-color: white;
 }
+.ui.three.column.grid.container {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.ui.join.button {
+  background-color: black;
+  color: white;
+}
