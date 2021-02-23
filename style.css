@@ -1,3 +1,8 @@
-.ui.borderless.menu {
+.ui.borderless.main.menu {
   background-color: #f7f7f7;
+  box-shadow: none;
+  border-style: none;
+}
+.ui.borderless.second.menu {
+  background-color: white;
 }
